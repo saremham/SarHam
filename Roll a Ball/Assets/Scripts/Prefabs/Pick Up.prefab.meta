@@ -1,5 +1,8 @@
 fileFormatVersion: 2
 guid: d900ba82bd82747b4af153b9891a05c7
+labels:
+- Picl
+- Pickup
 timeCreated: 1458494574
 licenseType: Free
 NativeFormatImporter:
