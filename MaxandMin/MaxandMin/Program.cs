@@ -59,7 +59,7 @@ namespace LargestandSmallest
 			} else {
 				Console.WriteLine ("The smallest number is " + smallestNumber + ", an odd number.");
 			}
-				
+
 		}
 	}
 }
