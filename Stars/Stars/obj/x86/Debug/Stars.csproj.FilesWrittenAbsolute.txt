@@ -1,0 +1,5 @@
+/Users/sarahhamilton/Desktop/SarHam/Stars/Stars/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/sarahhamilton/Desktop/SarHam/Stars/Stars/bin/Debug/Stars.exe.mdb
+/Users/sarahhamilton/Desktop/SarHam/Stars/Stars/bin/Debug/Stars.exe
+/Users/sarahhamilton/Desktop/SarHam/Stars/Stars/obj/x86/Debug/Stars.exe
+/Users/sarahhamilton/Desktop/SarHam/Stars/Stars/obj/x86/Debug/Stars.exe.mdb
